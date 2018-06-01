@@ -1,0 +1,8 @@
+{
+  "name": "google_second_pro",
+  "app_id": "e579db35",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
